@@ -3,12 +3,12 @@
 Quecker is a basic queue managing application written in java.
 I did this as a side-project and I wish for others to review and contribute to what I've done.
 The front-end/GUI is only for debugging purposes, importing not being recommended.
-This is structured as a maven project. All the dependencies are handled.
-THIS IS NOT MEANT TO BE A STANDALONE APPLICATION.
+This is structured as a maven project, all the dependencies being handled.
+>THIS IS NOT MEANT TO BE A STANDALONE APPLICATION.
 
 ##Instructions for bug reporting
 
-- Optizations are encouraged
+- Optimizations are encouraged
 - Exceptions --> post stacktrace
 - Bug reports must contain instructions on how to reproduce the bug. This is the single most important point. Bugs that can't be reproduced can't be fixed either.
 
@@ -35,7 +35,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 ##Disclaimer
 
-I am by no means a java master so be gentle.
+I am by no means a java master, so be gentle.
 
 ##Tags
 
